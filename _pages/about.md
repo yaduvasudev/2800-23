@@ -1,25 +1,26 @@
 ---
-layout: page
+layout: about
 permalink: /
-#nav: true
-#nav_order: 1
-#profile:
-#  align: right
-#  image: prof_pic.jpg
-#  image_circular: false # crops the image to make it circular
-#  address: >
-#    <p>555 your office number</p>
-#    <p>123 your address street</p>
-#    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-# selected_papers: true # includes a list of papers marked as "selected={true}"
-# social: true  # includes social icons at the bottom of the page
+title: CS2800 Design and Analysis of Algorithms
+subtitle: Jan-May 2023
+news: true  
 ---
-# CS2800: Design and Analysis of Algorithms
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+---
+#### **Coordinates**
+- Where: CS15
+- When: B slot - Mon (9 am), Tue (8 am), Wed (1 pm), Fri (11 am)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#### **Instructor**
+- [Yadu Vasudev](https://yaduvasudev.github.io/)
+- SSB 207
+- yadu@cse.iitm.ac.in
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#### **TAs**
+TBA
+
+##### **About this course**:
+
+This is an introductory course on design and anlysis of algorithms aimed at undergrad students. It assumes a preqrequisite of basic dicrete mathematics and basic data structures and algorithms as seen in the course **[Programming and Data Structures (CS2700/CS2705)](http://cse.iitm.ac.in/course_details.php?arg=ODg=)**. There will be a lot of emphasis on designing provably correct algorithms, and very little on actually writing code for it.
+
+---

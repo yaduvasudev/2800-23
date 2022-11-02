@@ -3,9 +3,17 @@
  ******************************************************************************/
 
 // Typography
+body {
+  font-family: "Lato";
+}
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
+}
+
+strong {
+  font-weight: bold;
+  color: #b34700;
 }
 
 hr {
@@ -31,6 +39,7 @@ a, table.table a {
     width: 100%;
   }
 }
+
 
 figure, img {
   max-width: 90vw;
