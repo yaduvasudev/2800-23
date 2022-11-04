@@ -8,8 +8,8 @@ nav_order: 2
 
 #### **Weekly schedule**
 
-- Lectures: Mon (9 am), Tue (8 am), Fri (11 am)
-- Tutorials: Wed (1 pm)
+- Lectures: Mon (9 am), Tue (8 am), Wed (1 pm)
+- Tutorials: Fri (11 am)
 
 The Wednesday slot will be used for tutorials. This includes both ungraded practice tutorials, as well as mini-quizzes. Please see the details below to know the dates for the mini-quizzes and ungraded tutorials. We will stick to this schedule unless there is some unforeseen change in the academic calendar.
 
@@ -28,8 +28,8 @@ The course will be evaluated through a series of quizzes and finally the end-sem
 
 Please note the following dates for the ungraded tutorials and mini-quizzes. The dates for Quiz 1,2 and end-semester examination will be as per the institute calendar.
 
-- Practice tutorials: Jan 18, Jan 25, Feb 8, Feb 15, Feb 22, Mar 1, Mar 15, Mar 29, Apr 12
-- Mini quizzes: Feb 1, Mar 8, Apr 19
+- Practice tutorials: Jan 20, Jan 27, Feb 10, Feb 17, Feb 24, Mar 10, Mar 17, Mar 24, Mar 31, Apr 14
+- Mini quizzes: Feb 3, Mar 3, Apr 21
 - Quiz 1: Feb 14
 - Quiz 2: Mar 21
 - End-sem: May 3
