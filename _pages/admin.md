@@ -11,7 +11,7 @@ nav_order: 2
 - Lectures: Mon (9 am), Tue (8 am), Wed (1 pm)
 - Tutorials: Fri (11 am)
 
-The Wednesday slot will be used for tutorials. This includes both ungraded practice tutorials, as well as mini-quizzes. Please see the details below to know the dates for the mini-quizzes and ungraded tutorials. We will stick to this schedule unless there is some unforeseen change in the academic calendar.
+The Friday slot will be used for tutorials. This includes both ungraded practice tutorials, as well as mini-quizzes. Please see the details below to know the dates for the mini-quizzes and ungraded tutorials. We will stick to this schedule unless there is some unforeseen change in the academic calendar.
 
 ---
 
