@@ -15,7 +15,7 @@ The Friday slot will be used for tutorials. This includes both ungraded practice
 
 ---
 
-#### **Grading policy**
+#### **Grading policy** (tentative)
 
 The course will be evaluated through a series of quizzes and finally the end-sem. I will be releasing problem sets on a weekly basis, and we will have tutorial sessions to discuss the these problems and possible approaches to solving them. The tentative grading scheme is as follows.
 - Mini-quizzes: **20%** (best 2/3)
@@ -24,7 +24,7 @@ The course will be evaluated through a series of quizzes and finally the end-sem
 
 ---
 
-#### **Important dates**
+#### **Important dates** (tentative)
 
 Please note the following dates for the ungraded tutorials and mini-quizzes. The dates for Quiz 1,2 and end-semester examination will be as per the institute calendar.
 
@@ -38,6 +38,6 @@ Please note the following dates for the ungraded tutorials and mini-quizzes. The
 
 #### **Contact**
 
-Please sign up on the course discussion forum here. This will be the first point of contact for any issues related to the course. Please do not email me or the TAs unless the issue is specific to you (like missing lectures, correction in grading). Even for such issues, we highly recommend you to message privately using the discussion forum.
+Please sign up on the course discussion forum [here](https://cs2800-23.zulipchat.com/join/uvymrsnqzxkomvzj4yocflc5/). This will be the first point of contact for any issues related to the course. Please do not email me or the TAs unless the issue is specific to you (like missing lectures, correction in grading). Even for such issues, we highly recommend you to message privately using the discussion forum.
 
-For general questions related to the course (any comments/doubts), please create a topic in the correct stream and add you question/comment there. You are also welcome to reply and clear the doubts of your friends. Asking good questions and replying to your friends questions are a good way to get the marks for class participation.
+For general questions related to the course (any comments/doubts), please create a topic in the correct stream and add you question/comment there. You are also welcome to reply and clear the doubts of your friends.

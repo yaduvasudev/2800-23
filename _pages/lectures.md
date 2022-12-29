@@ -12,7 +12,7 @@ nav_order: 3
 {% assign q_num = 0 %}
 {% assign endsem = 0 %}
 
-{% for item in site.data.lec6170-22 %}
+{% for item in site.data.lec %}
 {% assign lecture = item %}
 {% if lecture.tutorial %}
 {% assign tut_num = tut_num | plus:1 %}
