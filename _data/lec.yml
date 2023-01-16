@@ -1,9 +1,9 @@
 - date: Mon 16/01
-  contents: First lecture
-  slides:
+  contents: Introduction to the course; administrative details; algorithms for integer multiplication - what constitutes a good algorithm?
+  slides: https://drive.google.com/file/d/1F21tBuUGVUf62bTXjWu6lp8M2T9ye65P/view?usp=share_link
   notes:
-  references:
-  misc:
+  references: Section 0.2 - Erickson
+  misc: <a href="https://drive.google.com/file/d/1znDMqRm3Xka-TBif1dNpt6NIrZwudtNd/view?usp=share_link">PS0</a> released
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
