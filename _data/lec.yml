@@ -11,6 +11,13 @@
   notes:
   references: Section 1.1 - [KT]
   misc:
+  
+- date: Wed 18/01
+  contents: Gale-Shapley algorithm - proof of correctness; properties of the solution and proof of optimality
+  slides: https://drive.google.com/file/d/1F21tBuUGVUf62bTXjWu6lp8M2T9ye65P/view?usp=share_link
+  notes:
+  references: Section 1.1 - [KT]
+  misc:
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
