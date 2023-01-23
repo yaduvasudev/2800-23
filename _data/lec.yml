@@ -26,6 +26,18 @@
   notes:
   references: 
   misc:
+  
+- date: Mon 23/01
+  contents: Recall of asymptotic analysis; Divide-and-conquer - Karatsuba's algorithm, recurrence relations, recurrence trees, master theorem
+  slides: https://drive.google.com/file/d/1XD8684cRD8UmHnfDsMClkFV2he4Mv6LS/view?usp=share_link
+  notes:
+  references: 
+  - Section 1.9 - Erickson
+  - Section 2.1, 2.2 - [DPV]
+  - Chapter 3 - [CLRS] (asymptotic notation)
+  - Section 4.6 - [CLRS] (for a proof of the master theorem)
+  misc: 
+  - <a href="https://drive.google.com/file/d/1JFAQMWRS4YHyZLUPQlZHIraohbeFLNWZ/view?usp=share_link">PS1</a> released
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication

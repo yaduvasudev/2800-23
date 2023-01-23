@@ -66,6 +66,10 @@ nav_order: 3
 </ul>
 {% endfor %}
 </td>
-<td>{{ lecture.misc }}</td>
+<td>
+{% for itm in lecture.misc %}
+{{ lecture.misc }} <br>
+{% endfor %}
+</td>
 </tr>
 {% endfor %}
