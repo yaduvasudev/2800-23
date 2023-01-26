@@ -66,7 +66,7 @@ nav_order: 3
 </td>
 <td>
 {% for itm in lecture.misc %}
-{{ lecture.misc }} <br>
+{{ itm }} <br>
 {% endfor %}
 </td>
 </tr>
