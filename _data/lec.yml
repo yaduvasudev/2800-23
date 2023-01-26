@@ -53,7 +53,7 @@
   notes:
   references:
   - Section 2.6 - [DPV]
-  - [<a href="http://jeffe.cs.illinois.edu/teaching/algorithms/notes/A-fft.pdf">FFT notes</a>] - Erickson
+  # - [<a href="http://jeffe.cs.illinois.edu/teaching/algorithms/notes/A-fft.pdf">FFT notes</a>] - Erickson
   misc:
 
 # - date: Wed 04/08
