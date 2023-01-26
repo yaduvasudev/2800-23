@@ -52,8 +52,8 @@
   slides: https://drive.google.com/file/d/1XD8684cRD8UmHnfDsMClkFV2he4Mv6LS/view?usp=share_link
   notes:
   references:
-    - > Section 2.6 - [DPV]
-    - > [<a href="http://jeffe.cs.illinois.edu/teaching/algorithms/notes/A-fft.pdf">FFT</a>] - Erickson
+    - Section 2.6 - [DPV]
+    - > [<a href="http://jeffe.cs.illinois.edu/teaching/algorithms/notes/A-fft.pdf">FFT notes</a>] - Erickson
   misc:
 
 # - date: Wed 04/08
