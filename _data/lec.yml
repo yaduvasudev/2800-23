@@ -4,48 +4,57 @@
   notes:
   references: Section 0.2 - Erickson
   misc: <a href="https://drive.google.com/file/d/1znDMqRm3Xka-TBif1dNpt6NIrZwudtNd/view?usp=share_link">PS0</a> released
-  
+
 - date: Tue 17/01
   contents: Stable marriage problem; Gale-Shapley algorithm and examples
   slides: https://drive.google.com/file/d/1F21tBuUGVUf62bTXjWu6lp8M2T9ye65P/view?usp=share_link
   notes:
   references: Section 1.1 - [KT]
   misc:
-  
+
 - date: Wed 18/01
   contents: Gale-Shapley algorithm - proof of correctness; properties of the solution and proof of optimality
   slides: https://drive.google.com/file/d/1F21tBuUGVUf62bTXjWu6lp8M2T9ye65P/view?usp=share_link
   notes:
   references: Section 1.1 - [KT]
   misc:
-  
+
 - date: Wed 20/01
   tutorial: Based on Problem set 0
-  contents: 
-  slides: 
+  contents:
+  slides:
   notes:
-  references: 
+  references:
   misc:
-  
+
 - date: Mon 23/01
   contents: Recall of asymptotic analysis; Divide-and-conquer - Karatsuba's algorithm, recurrence relations, recurrence trees, master theorem
   slides: https://drive.google.com/file/d/1XD8684cRD8UmHnfDsMClkFV2he4Mv6LS/view?usp=share_link
   notes:
-  references: 
+  references:
   - Section 1.9 - Erickson
   - Section 2.1, 2.2 - [DPV]
   - Chapter 3 - [CLRS] (asymptotic notation)
   - Section 4.6 - [CLRS] (for a proof of the master theorem)
-  misc: 
+  misc:
   - <a href="https://drive.google.com/file/d/1JFAQMWRS4YHyZLUPQlZHIraohbeFLNWZ/view?usp=share_link">PS1</a> released
-  
+
 - date: Tue 24/01
   contents: Order statistics - finding the \(k^{th}\) smallest element; median-of-medians - recursive solution, analyzing the recurrence using recursion trees
   slides: https://drive.google.com/file/d/1XD8684cRD8UmHnfDsMClkFV2he4Mv6LS/view?usp=share_link
   notes:
-  references: 
+  references:
   - Section 1.8 - Erickson
-  misc: 
+  misc:
+
+- date: Tue 25/01
+  contents: Convolution of vectors; equivalence with polynomial multiplication; evaluating polynomials on mulitple points; FFT algorithm
+  slides: https://drive.google.com/file/d/1XD8684cRD8UmHnfDsMClkFV2he4Mv6LS/view?usp=share_link
+  notes:
+  references:
+  - Section 2.6 - [DPV]
+  - [<a href="http://jeffe.cs.illinois.edu/teaching/algorithms/notes/A-fft.pdf">FFT notes</a>] - Erickson
+  misc:
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
