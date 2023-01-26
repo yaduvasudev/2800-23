@@ -61,7 +61,7 @@ nav_order: 3
 </td>
 <td>
 {% for ref in lecture.references %}
-- {{ ref }} <br>
+{{ ref }} <br>
 {% endfor %}
 </td>
 <td>
