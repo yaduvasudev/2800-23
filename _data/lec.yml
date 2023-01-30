@@ -47,7 +47,7 @@
     - Section 1.8 - Erickson
   misc:
 
-- date: Tue 25/01
+- date: Wed 25/01
   contents: Convolution of vectors; equivalence with polynomial multiplication; evaluating polynomials on mulitple points; FFT algorithm
   slides: https://drive.google.com/file/d/1XD8684cRD8UmHnfDsMClkFV2he4Mv6LS/view?usp=share_link
   notes:
@@ -55,6 +55,17 @@
     - Section 2.6 - [DPV]
     - <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/notes/A-fft.pdf">FFT notes</a> - Erickson
   misc:
+  
+- date: Mon 30/01
+  contents: FFT algorithm (contd.); Closest pair of points in 2D
+  slides: https://drive.google.com/file/d/1XD8684cRD8UmHnfDsMClkFV2he4Mv6LS/view?usp=share_link
+  notes:
+  references:
+    - Section 2.6 - [DPV]
+    - <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/notes/A-fft.pdf">FFT notes</a> - Erickson
+    - Section 5.4 - [KT]
+  misc: 
+    - <a href="https://drive.google.com/file/d/1W0KItGCZgYIrff1yNkLzR-MXyp3FLWPs/view?usp=share_link">PS2</a> released
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
