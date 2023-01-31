@@ -55,7 +55,7 @@
     - Section 2.6 - [DPV]
     - <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/notes/A-fft.pdf">FFT notes</a> - Erickson
   misc:
-  
+
 - date: Mon 30/01
   contents: FFT algorithm (contd.); Closest pair of points in 2D
   slides: https://drive.google.com/file/d/1XD8684cRD8UmHnfDsMClkFV2he4Mv6LS/view?usp=share_link
@@ -64,9 +64,17 @@
     - Section 2.6 - [DPV]
     - <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/notes/A-fft.pdf">FFT notes</a> - Erickson
     - Section 5.4 - [KT]
-  misc: 
+  misc:
     - <a href="https://drive.google.com/file/d/1W0KItGCZgYIrff1yNkLzR-MXyp3FLWPs/view?usp=share_link">PS2</a> released
 
+- date: Tue 31/01
+  contents: Basic graph algorithms; adjacency matrices and lists; traversals
+  slides: https://drive.google.com/file/d/11qcqp4d1mp421IzMoWrJLGe_9fFy1J_0/view?usp=share_link
+  notes:
+  references:
+    - Sections 3.1, 3.2 - [DPV]
+    - Chapter 5 - Erickson
+  misc:
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
