@@ -91,6 +91,16 @@
   notes:
   references:
   misc:
+  
+- date: Mon 06/02
+  contents: BFS; finding connected components in graphs; digraphs - classification of edges
+  slides: https://drive.google.com/file/d/11qcqp4d1mp421IzMoWrJLGe_9fFy1J_0/view?usp=share_link
+  notes:
+  references:
+    - Sections 3.2, 3.3 - [DPV]
+    - Sections 6.1, 6.2 - Erickson
+  misc: <a href="https://drive.google.com/file/d/1TD_HcZRNBKeX0ZoaRnV6jmdh0VC87jk1/view?usp=share_link">PS3</a> released
+  
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
