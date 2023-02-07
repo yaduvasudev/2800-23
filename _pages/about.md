@@ -17,7 +17,7 @@ news: true
 - yadu@cse.iitm.ac.in
 
 #### **TAs**
-TBA
+Abhijit, Ankit, Anmol, Barenya, Bibhuti, Keshav, Ravi, Sampriti, Souradipta, Susmit
 
 ##### **About this course**:
 
