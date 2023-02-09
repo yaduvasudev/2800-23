@@ -91,7 +91,7 @@
   notes:
   references:
   misc:
-  
+
 - date: Mon 06/02
   contents: BFS; finding connected components in graphs; digraphs - classification of edges
   slides: https://drive.google.com/file/d/11qcqp4d1mp421IzMoWrJLGe_9fFy1J_0/view?usp=share_link
@@ -100,7 +100,7 @@
     - Sections 3.2, 3.3 - [DPV]
     - Sections 6.1, 6.2 - Erickson
   misc: <a href="https://drive.google.com/file/d/1TD_HcZRNBKeX0ZoaRnV6jmdh0VC87jk1/view?usp=share_link">PS3</a> released
-  
+
 - date: Tue 07/02
   contents: DFS with clocks - classification of edges; Topological ordering of DAGs
   slides: https://drive.google.com/file/d/11qcqp4d1mp421IzMoWrJLGe_9fFy1J_0/view?usp=share_link
@@ -108,8 +108,17 @@
   references:
     - Section 3.3 - [DPV]
     - Section 6.3 - Erickson
-  misc: 
-  
+  misc:
+
+- date: Wed 08/02
+  contents: Digraphs and their strongly connected components; Finding and labelling the strongly connected components of a digraph
+  slides: https://drive.google.com/file/d/11qcqp4d1mp421IzMoWrJLGe_9fFy1J_0/view?usp=share_link
+  notes:
+  references:
+    - Section 3.4 - [DPV]
+    - Sections 6.5, 6.6 - Erickson
+  misc:
+
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
