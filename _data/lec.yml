@@ -118,6 +118,14 @@
     - Section 3.4 - [DPV]
     - Sections 6.5, 6.6 - Erickson
   misc:
+  
+- date: Fri 10/02
+  tutorial: Discussion of Problem Set 3
+  contents:
+  slides:
+  notes:
+  references:
+  misc:
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
