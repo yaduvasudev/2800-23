@@ -144,6 +144,16 @@
     - Sections 4.2,4.7 - [DPV]
     - Sections 8.4,8.5 - Erickson
   misc:
+  
+- date: Wed 15/02
+  contents: Shortest path in graphs - Dijkstra's algorithm
+  slides: https://drive.google.com/file/d/11qcqp4d1mp421IzMoWrJLGe_9fFy1J_0/view?usp=share_link
+  notes:
+  references: 
+    - Section 4.4 - [KT]	  
+    - Section 4.4 - [DPV]
+    - Section 8.6 - Erickson
+  misc:
 
 
 # - date: Wed 04/08
