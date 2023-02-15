@@ -136,6 +136,16 @@
     - Sections 6.6,8.4 - Erickson
   misc: <a href="https://drive.google.com/file/d/1OCOD_QA-Q1G8etqOqVk8d8erqgkXF4lZ/view?usp=share_link">PS4</a> released
 
+- date: Tue 14/02
+  contents: Shortest path in unweighed graphs - BFS (contd); Shortest paths in DAGs
+  slides: https://drive.google.com/file/d/11qcqp4d1mp421IzMoWrJLGe_9fFy1J_0/view?usp=share_link
+  notes:
+  references:
+    - Sections 4.2,4.7 - [DPV]
+    - Sections 8.4,8.5 - Erickson
+  misc:
+
+
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
