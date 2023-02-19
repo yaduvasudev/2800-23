@@ -118,15 +118,15 @@
     - Section 3.4 - [DPV]
     - Sections 6.5, 6.6 - Erickson
   misc:
-  
+
 - date: Fri 10/02
-  tutorial: Discussion of Problem Set 3
+  tutorial: Discussion of Problem set 3
   contents:
   slides:
   notes:
   references:
   misc:
-  
+
 - date: Mon 13/02
   contents: Finding and labelling strongly connected components - Kosaraju-Sharir algorithm; Shortest paths in graphs - BFS
   slides: https://drive.google.com/file/d/11qcqp4d1mp421IzMoWrJLGe_9fFy1J_0/view?usp=share_link
@@ -144,15 +144,23 @@
     - Sections 4.2,4.7 - [DPV]
     - Sections 8.4,8.5 - Erickson
   misc:
-  
+
 - date: Wed 15/02
   contents: Shortest path in graphs - Dijkstra's algorithm
   slides: https://drive.google.com/file/d/11qcqp4d1mp421IzMoWrJLGe_9fFy1J_0/view?usp=share_link
   notes:
-  references: 
-    - Section 4.4 - [KT]	  
+  references:
+    - Section 4.4 - [KT]
     - Section 4.4 - [DPV]
     - Section 8.6 - Erickson
+  misc:
+
+- date: Fri 17/02
+  tutorial: Discussion of Problem set 4
+  contents:
+  slides:
+  notes:
+  references:
   misc:
 
 
