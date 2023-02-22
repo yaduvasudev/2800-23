@@ -51,12 +51,12 @@ nav_order: 3
 {% elsif lecture.endsem %}
 {{ lecture.endsem }}
 {% endif %}
-{{ lecture.contents }}
+{{ lecture.contents }}<br>
 {% if lecture.slides %}
-<br> [<a href = "{{ lecture.slides }}">slides</a>]
+[<a href = "{{ lecture.slides }}">slides</a>]
+{% endif %}
 {% if lecture.notes %}
 [<a href = "{{ lecture.notes }}">notes</a>]
-{% endif %}
 {% endif %}
 </td>
 <td>

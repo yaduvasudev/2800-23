@@ -170,7 +170,7 @@
   references:
     - Section 4.4 - [KT]
     - Section 4.4 - [DPV]
-    - Section 8.6,8.7 - Erickson
+    - Sections 8.6,8.7 - Erickson
   misc:
 
 - date: Tue 21/02
@@ -179,6 +179,14 @@
   slides:
   notes:
   references:
+  misc:
+  
+- date: Wed 22/02
+  contents: Bellman-Ford algorithm (contd)
+  slides:
+  notes: https://drive.google.com/file/d/1GijCXkdgW9yaUpDxyZRUamYrBXRw-c9h/view?usp=share_link
+  references:
+    - Section 8.7 - Erickson
   misc:
 
 
