@@ -188,6 +188,14 @@
   references:
     - Section 8.7 - Erickson
   misc:
+  
+- date: Fri 24/02
+  contents: Greedy algorithms - interval scheduling
+  slides:
+  notes: https://drive.google.com/file/d/1R_JkHFORZd8pC-kamwWCGrJE-nC6zfNr/view?usp=share_link
+  references:
+    - Section 4.1 - [KT]
+  misc:
 
 
 
