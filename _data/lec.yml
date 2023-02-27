@@ -196,6 +196,14 @@
   references:
     - Section 4.1 - [KT]
   misc:
+  
+- date: Mon 27/02
+  contents: Greedy algorithms - scheduling jobs to minimize delays; exchange arguments
+  slides:
+  notes: 
+  references:
+    - Section 4.2 - [KT]
+  misc: <a href="https://drive.google.com/file/d/1kv1oyNQYgl4QGbUDaRdR3pwQcSQKFtC4/view?usp=share_link">PS5</a> released
 
 
 
