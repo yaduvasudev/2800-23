@@ -212,6 +212,14 @@
   references:
     - Section 4.2 - [KT]
   misc: 
+  
+- date: Wed 01/03
+  contents: Huffman coding - optimal prefix codes and binary trees
+  slides:
+  notes: https://drive.google.com/file/d/17rszgMvEOe3DTxtTrg_jhfmP63l722wn/view?usp=share_link
+  references:
+    - Section 4.8 - [KT]
+  misc: 
 
 
 # - date: Wed 04/08
