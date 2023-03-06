@@ -228,6 +228,15 @@
   notes:
   references:
   misc:
+  
+- date: Mon 06/03
+  contents: Huffman coding - algorithm and proof of correctness
+  slides:
+  notes: https://drive.google.com/file/d/19Xp5YVZl7d724ZWLBUKi2dCiKy56PzBQ/view?usp=share_link
+  references:
+    - Section 4.8 - [KT]
+  misc: <a href="https://drive.google.com/file/d/19Xp5YVZl7d724ZWLBUKi2dCiKy56PzBQ/view?usp=share_link">PS6</a> released
+
 
 
 # - date: Wed 04/08
