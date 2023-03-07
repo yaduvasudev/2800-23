@@ -237,7 +237,14 @@
     - Section 4.8 - [KT]
   misc: <a href="https://drive.google.com/file/d/1BiKZ8NIKwbXI6sO5MSf_NFB8qNvPRY2V/view?usp=share_link">PS6</a> released
 
-
+- date: Tue 07/03
+  contents: Huffman coding - implementation details; Minimum spanning trees - cut property
+  slides:
+  notes: https://drive.google.com/file/d/1g212yMOZCNVeY8ouKM-WSsPUY-BxzjbH/view?usp=share_link
+  references:
+    - Sections 4.5, 4.8 - [KT]
+    - Section 7.1 - Erickson
+  misc: 
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
