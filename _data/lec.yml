@@ -261,6 +261,14 @@
   references:
     - Sections 7.2, 7.3 - Erickson
   misc: <a href="https://drive.google.com/file/d/1MvF2LhwqBJXjh2xrsU495Fz0gX3A9PI0/view?usp=share_link">PS7</a> released
+  
+- date: Tue 14/03
+  contents: Prim's and Kruskal's algorithms - examples, implementation details, running time
+  slides:
+  notes: https://drive.google.com/file/d/1e1MdTBYlGwIWpaMq6aLKaqYLH-FKsm28/view?usp=share_link
+  references:
+    - Sections 7.4, 7.5 - Erickson
+  misc: 
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
