@@ -180,7 +180,7 @@
   notes:
   references:
   misc:
-  
+
 - date: Wed 22/02
   contents: Bellman-Ford algorithm (contd)
   slides:
@@ -188,7 +188,7 @@
   references:
     - Section 8.7 - Erickson
   misc:
-  
+
 - date: Fri 24/02
   contents: Greedy algorithms - interval scheduling
   slides:
@@ -196,11 +196,11 @@
   references:
     - Section 4.1 - [KT]
   misc:
-  
+
 - date: Mon 27/02
   contents: Greedy algorithms - scheduling jobs to minimize delays; exchange arguments
   slides:
-  notes: 
+  notes:
   references:
     - Section 4.2 - [KT]
   misc: <a href="https://drive.google.com/file/d/1kv1oyNQYgl4QGbUDaRdR3pwQcSQKFtC4/view?usp=share_link">PS5</a> released
@@ -211,16 +211,16 @@
   notes: https://drive.google.com/file/d/1xwPrzIwwzLPCK-ZsbeKch2cC1sTXiAM7/view?usp=share_link
   references:
     - Section 4.2 - [KT]
-  misc: 
-  
+  misc:
+
 - date: Wed 01/03
   contents: Huffman coding - optimal prefix codes and binary trees
   slides:
   notes: https://drive.google.com/file/d/17rszgMvEOe3DTxtTrg_jhfmP63l722wn/view?usp=share_link
   references:
     - Section 4.8 - [KT]
-  misc: 
-  
+  misc:
+
 - date: Fri 03/03
   tutorial: Discussion of Problem set 5
   contents:
@@ -228,7 +228,7 @@
   notes:
   references:
   misc:
-  
+
 - date: Mon 06/03
   contents: Huffman coding - algorithm and proof of correctness
   slides:
@@ -244,8 +244,8 @@
   references:
     - Sections 4.5, 4.8 - [KT]
     - Section 7.1 - Erickson
-  misc: 
-  
+  misc:
+
 - date: Fri 10/03
   miniquiz: Based on Problem sets 5 and 6
   contents:
@@ -253,7 +253,7 @@
   notes:
   references:
   misc:
-  
+
 - date: Mon 13/03
   contents: Minimum spanning trees - proof of the cut property; Boruvka's algorithm
   slides:
@@ -261,14 +261,22 @@
   references:
     - Sections 7.2, 7.3 - Erickson
   misc: <a href="https://drive.google.com/file/d/1MvF2LhwqBJXjh2xrsU495Fz0gX3A9PI0/view?usp=share_link">PS7</a> released
-  
+
 - date: Tue 14/03
   contents: Prim's and Kruskal's algorithms - examples, implementation details, running time
   slides:
   notes: https://drive.google.com/file/d/1e1MdTBYlGwIWpaMq6aLKaqYLH-FKsm28/view?usp=share_link
   references:
     - Sections 7.4, 7.5 - Erickson
-  misc: 
+  misc:
+
+- date: Wed 15/03
+  contents: Kruskal's algorithm - amortized analysis; data structures for disjoint sets
+  slides:
+  notes: https://drive.google.com/file/d/1WLlWJuwj4YrcmSIuOhu1HDBcwV_3NzLH/view?usp=share_link
+  references:
+    - Section 7.5 - Erickson
+  misc:
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
