@@ -277,6 +277,23 @@
   references:
     - Section 7.5 - Erickson
   misc:
+  
+- date: Fri 17/03
+  tutorial: Discussion of Problem set 7
+  contents:
+  slides:
+  notes:
+  references:
+  misc:
+  
+- date: Tue 21/03
+  quiz: Based on material covered through Problems sets 5,6,7
+  contents:
+  slides:
+  notes:
+  references:
+  misc:
+
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
