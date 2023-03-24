@@ -294,6 +294,13 @@
   references:
   misc:
 
+- date: Fri 24/03
+  contents: Union-by-rank with path compression; Amortized analysis - accounting method
+  slides:
+  notes: https://drive.google.com/file/d/18Qi6M1bnAuRMxjx7GjxlT7zn6sabrhE7/view?usp=share_link
+  references:
+    - Section 5.1.4 - [DPV]
+  misc:
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
