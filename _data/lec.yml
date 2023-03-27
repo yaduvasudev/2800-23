@@ -301,6 +301,14 @@
   references:
     - Section 5.1.4 - [DPV]
   misc:
+  
+- date: Mon 27/03
+  contents: Union-by-rank with path compression - amortized analysis
+  slides:
+  notes: https://drive.google.com/file/d/1y-xnA6s5EkwdUEumzU1nS0gURQakKZiB/view?usp=share_link
+  references:
+    - Section 5.1.4 - [DPV]
+  misc:
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
