@@ -309,6 +309,14 @@
   references:
     - Section 5.1.4 - [DPV]
   misc:
+  
+- date: Tue 28/03
+  contents: Dynamic programming - text segmentation
+  slides:
+  notes: https://drive.google.com/file/d/1sn9aEyTr-BZMX2unUJrZicM5vx9AA4UL/view?usp=share_link
+  references:
+    - Sections 3.3, 3.4 - Erickson
+  misc:
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
