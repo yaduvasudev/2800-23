@@ -317,6 +317,14 @@
   references:
     - Sections 3.3, 3.4 - Erickson
   misc:
+  
+- date: Wed 29/03
+  contents: Dynamic programming - text justification, edit distance
+  slides:
+  notes: https://drive.google.com/file/d/1GVh3DovQ_Mj6itUeAFl9WX1Z9W56oSzy/view?usp=share_link
+  references:
+    - class notes
+  misc: <a href="https://drive.google.com/file/d/1vjvbEnHDtTyrgBfAZiAHUCr7_24Ik3pP/view?usp=share_link">PS8</a> released
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
