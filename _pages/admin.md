@@ -28,8 +28,8 @@ The course will be evaluated through a series of quizzes and finally the end-sem
 
 Please note the following dates for the ungraded tutorials and mini-quizzes. The dates for Quiz 1,2 and end-semester examination will be as per the institute calendar.
 
-- Practice tutorials: Jan 20, Jan 27, Feb 10, Feb 17, Feb 24, Mar 3, Mar 17, Mar 24, Mar 31, Apr 14
-- Mini quizzes: Feb 3, Mar ~~3~~**10**, Apr 21
+- Practice tutorials: Jan 20, Jan 27, Feb 10, Feb 17, Feb 24, Mar 3, Mar 17, Mar 24, Mar 31, Apr 21
+- Mini quizzes: Feb 3, Mar ~~3~~**10**, Apr ~~21~~**14**, Apr 26
 - Quiz 1: Feb ~~14~~**21**
 - Quiz 2: Mar 21
 - End-sem: May 3
