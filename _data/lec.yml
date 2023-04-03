@@ -333,6 +333,15 @@
   notes:
   references:
   misc:
+  
+- date: Mon 03/04
+  contents: Dynamic programming - edit distance; saving space using divide-and-conquer
+  slides:
+  notes: https://drive.google.com/file/d/1E7gQo2f3DljzUSqvCoyksS_Vt19Dgd0Q/view?usp=share_link
+  references:
+    - Section 3.7 - Erickson
+    - Sections 6.6, 6.7 - [KT]
+  misc:
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
