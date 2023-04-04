@@ -18,7 +18,7 @@ The Friday slot will be used for tutorials. This includes both ungraded practice
 #### **Grading policy** (tentative)
 
 The course will be evaluated through a series of quizzes and finally the end-sem. I will be releasing problem sets on a weekly basis, and we will have tutorial sessions to discuss the these problems and possible approaches to solving them. The tentative grading scheme is as follows.
-- Mini-quizzes: **20%** (best 2/3)
+- Mini-quizzes: **20%** (best 2/4)
 - Quiz 1 & 2: 2 * 20 = **40%**
 - End-sem: **40%**
 
