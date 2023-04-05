@@ -343,6 +343,16 @@
     - Sections 6.6, 6.7 - [KT]
   misc:
 
+
+- date: Wed 05/04
+  contents: Dynamic programming - edit distane (contd.); 0-1 Knapsack - pseudopolynomial-time algorithm
+  slides:
+  notes: https://drive.google.com/file/d/19snuWfstHntULkblCml8blP-scKElZ8h/view?usp=share_link
+  references:
+    - Sections 6.6, 6.7 - [KT]
+  misc: Online lecture - video link on Zulip
+
+
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
