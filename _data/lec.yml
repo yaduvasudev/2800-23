@@ -353,6 +353,14 @@
   misc: Online lecture - video link on Zulip
 
 
+- date: Mon 10/04
+  contents: 0-1 Knapsack - pseudopolynomial-time algorithm (contd.); Dynamic programming on trees - independent sets
+  slides:
+  notes: https://drive.google.com/file/d/1AnCzEWsCKWIZZyI8jMgq0DR0ju2t-1iQ/view?usp=share_link
+  references:
+    - Section 3.10 - Erickson
+  misc: 
+
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
 #   slides:
