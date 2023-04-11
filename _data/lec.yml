@@ -359,6 +359,14 @@
   notes: https://drive.google.com/file/d/1AnCzEWsCKWIZZyI8jMgq0DR0ju2t-1iQ/view?usp=share_link
   references:
     - Section 3.10 - Erickson
+  misc:
+  
+- date: Tue 11/04
+  contents: All Pairs Shortest Paths (APSP) - Johnson's algorithm; Dynamic programming based algorithms
+  slides:
+  notes: https://drive.google.com/file/d/1ER-SBl5RJs2_Unf0jfSnfev3_m3-BLys/view?usp=share_link
+  references:
+    - Section 9.4, 9.5, 9.6 - Erickson
   misc: 
 
 # - date: Wed 04/08
