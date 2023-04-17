@@ -376,6 +376,15 @@
   references:
     - Sections 9.7, 9.8 - Erickson
   misc: 
+  
+- date: Mon 17/04
+  contents: APSP and matrix multiplication - Seidel's algorithm; Introduction to computational intractability
+  slides:
+  notes: https://drive.google.com/file/d/1whGubSYMS_dfLYTrjvFpscvy4klXQ7h-/view?usp=share_link
+  references:
+    - Section 4.4 - Anupam Gupta's <a href="https://drive.google.com/file/d/1qEJNzfoujYR3mwS9MiOz-dmZ99zvCos7/view?usp=share_link">lecture notes</a>
+    - Seidel's <a href="https://drive.google.com/file/d/1PCLoJ_XXNeIo6smDab8rOn2yuCVREqMA/view?usp=share_link">paper</a>
+  misc: <a href="https://drive.google.com/file/d/10Q6JH3qDt-a9s1RFM0Bj1kezwjEW7xfR/view?usp=share_link">PS9</a> released
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
