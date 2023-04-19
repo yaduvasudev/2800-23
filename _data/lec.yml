@@ -394,6 +394,14 @@
     - Sections 34.1, 34.2 - [CLRS]
     - Sections 12.1, 12.2 - Erickson
   misc:
+  
+- date: Wed 19/04
+  contents: Polynomial-time reductions - NP completeness, examples of reductions
+  slides:
+  notes: https://drive.google.com/file/d/1iQ4IL2PXEgHeAY2BxGxXzFq_TTuH_2B4/view?usp=share_link
+  references:
+    - Chapter 12 - Erickson
+  misc:
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
