@@ -410,6 +410,14 @@
   notes:
   references:
   misc:
+  
+- date: Mon 24/04
+  contents: NP-completeness - examples of reductions
+  slides:
+  notes: https://drive.google.com/file/d/1TQr5lM9eRAQby7oSuN6PFYtMfM71O8_I/view?usp=share_link
+  references:
+    - Chapter 12 - Erickson
+  misc: <a href="https://drive.google.com/file/d/1MJyaz_w3VI5g3Qyk3n5XkGCtA89gu1hz/view?usp=share_link">PS10</a> released
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
