@@ -418,6 +418,13 @@
   references:
     - Chapter 12 - Erickson
   misc: <a href="https://drive.google.com/file/d/1MJyaz_w3VI5g3Qyk3n5XkGCtA89gu1hz/view?usp=share_link">PS10</a> released
+  
+- date: Tue 25/04
+  contents: Beyond NP-completeness - brief overview; Wrap-up of the course
+  slides:
+  notes: 
+  references: 
+  misc:
 
 # - date: Wed 04/08
 # contents: Verifying polynomial identities; verifying matrix multiplication
