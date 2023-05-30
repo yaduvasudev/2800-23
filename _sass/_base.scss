@@ -7,8 +7,13 @@ body {
   font-family: "Lato";
 }
 
-p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
+}
+
+p, li {
+  color: var(--global-text-color);
+  font-size: 1.05rem
 }
 
 strong {
@@ -25,7 +30,7 @@ table {
     color: var(--global-text-color);
   }
   td {
-    font-size: 1rem;
+    font-size: 1.05rem;
   }
 }
 
